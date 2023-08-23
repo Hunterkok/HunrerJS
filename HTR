@@ -36,5 +36,9 @@ while (true) {
         default:
             console.log("Invalid input");
             break;
+            break;
+        default:
+            console.log("Invalid input");
+            break;
     }
 }
