@@ -5,6 +5,7 @@ while (true) {
         "2. Subtract\n" +
         "3. Multiply\n" +
         "4. Divide\n" +
+     "4. Divide\n" +
         "5. Exit"
     ));
 
