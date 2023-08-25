@@ -7,6 +7,7 @@ while (true) {
         "4. Divide\n" +
      "4. Divide\n" +
         "5. Exit"
+ "5. Exit"
     ));
 
     if (choice === 5) {
