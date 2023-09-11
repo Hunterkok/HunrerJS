@@ -36,7 +36,7 @@ while (true) {
                 console.log("Cannot divide by zero");
    console.log("Cannot divide by zero");
   } else {
-                console.log("Cannots divide by zero");
+                console.log("Cannot1s divide by zero");
             }
             break;
         default:
