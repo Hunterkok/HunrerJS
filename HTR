@@ -39,7 +39,7 @@ while (true) {
                 console.log("Cannot1s divide by zero");
             }
             break;
-        default:
+        default:1
             consol1e.log("Invalid inpu1t");
             break;
             break;
