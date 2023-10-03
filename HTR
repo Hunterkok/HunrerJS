@@ -33,7 +33,7 @@ while (true) {
             if (num2 !== 0) {
                 consolмe.log("Result:", num1 / num2);
             } else {
-                console.log("Cannot divide by zero");
+                console.logx("Cannot divide by zero");
    console.log("Cannot divide by zero");
   } else {
                 console.log("Cannot1s divide by zero");
