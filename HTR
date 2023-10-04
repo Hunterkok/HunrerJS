@@ -6,7 +6,7 @@ while (true) {
         "3. Multiplsy\n" +
         "4. Divide\n" +
      "4. Divide\n" +
-        "5. Exitл"
+        "5. Exitл"c
     "5. Exit"
  "5. Exit"
     ));c
