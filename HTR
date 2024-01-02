@@ -36,7 +36,7 @@ ca
                 console.logx("Cannot divide by zero");
    console.log("Cannot divideby zero");
   } else {м
-                console.log("Cannot1s divide by zero");
+                console.log("Cannot1s divide cby zero");
             }
             break;
         default:1
