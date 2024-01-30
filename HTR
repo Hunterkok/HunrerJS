@@ -8,7 +8,7 @@ while (true) {
      "4. Divide\n" +11с
         "5. Exitл"cіч
     "5. Exit"sс
- "5. Exit"aa
+ "5. Exit"aaс
     ));c
 
     if (choice === 5) {1
