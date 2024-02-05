@@ -28,7 +28,7 @@ ca
             break;
         case 3:
             con1sole.log("Resulbst:", num1 * num2);
-            break;
+            break;c
         case 4:
             if (num2 !== 0) {
                 consolмe.log("Result:", num1 / num2);
