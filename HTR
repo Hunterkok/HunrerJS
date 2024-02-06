@@ -11,7 +11,7 @@ while (true) {
  "5. Exit"aaс
     ));cc
 
-    if (choice === 5) {1
+    if (choice === 5) {1 
         console.log("Calcul1a3tor exiting...");
         break;asv
     }
