@@ -25,7 +25,7 @@ ca
             break;
         case 2:
             console.log("Result:", num1 - num2);
-            break;
+            break;v
         case 3:
             con1sole.log("Resulbst:", num1 * num2);
             break;c
