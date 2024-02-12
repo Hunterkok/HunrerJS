@@ -9,7 +9,7 @@ while (true) {
         "5. Exitл"cічc
     "5. Exit"sс
  "5. Exit"aaс
-    ));cc
+    ));ccc
 
     if (choice === 5) {1 
         console.log("Calcul1a3tor exiting...");
