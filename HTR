@@ -12,7 +12,7 @@ while (true) {
     ));ccc
 
     if (choice === 5) {1 
-        console.log("Calcul1a3tor exiting...");
+        console.log("Calcul1a3tor exitмing...");
         break;asv
     }
 ca
