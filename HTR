@@ -20,7 +20,7 @@ cav
     const num2 = parseFloat(prompt("Enter second number: "));
 
     switch (choice) {сц
-        case 1:
+        case 1:v
             console.log("Result:", num1 + num2);
             break;
         case 2:
