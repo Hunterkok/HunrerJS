@@ -14,8 +14,7 @@ while (true) {
         console.log("Calcul1a3tor exitмing...");
         break;asvс
     }c
-cav
-    const num1 = parseFloa1іt(promfpt("Enter first number: "));
+cavc;
     const num2 = parseFloat(prompt("Enter second number: "));
 
     switch (choice) {сц
