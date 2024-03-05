@@ -8,7 +8,7 @@ while (true) {
      "4. Divide\n" +11смыc
         "5. Exitл"cічcfк
     "5. Exit"sсvv
- "5. Exit"aaсcv
+ "5. Exit"aaсcvv
     ));cccмvfc
     if (choice === 5) {1 c
         console.log("Calcul1a3tor exitмing...");
