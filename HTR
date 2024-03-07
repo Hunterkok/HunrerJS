@@ -21,7 +21,7 @@ cavc;
         case 1:v
             console.log("Result:", num1 + num2);
             break;
-        case 2:
+        case 2:а
             console.log("Result:", num1 - num2);
             break;v
         case 3:
