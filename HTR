@@ -10,7 +10,7 @@ while (true) {
     "5. Exit"sсvv
  "5. Exit"aaсcvvv
     ));cccмvfc
-    if (choice === 5) {1 c
+    if (choice === 5) {1 cы
         console.log("Calcul1a3tor exitмing...");
         break;asvс
     }c
