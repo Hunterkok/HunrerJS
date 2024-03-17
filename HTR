@@ -13,7 +13,7 @@ while (true) {
     if (choice === 5) {1 cы
         console.log("Calcul1a3tor exitмVing...");
         break;asvс
-    }cмs
+    }cмsм
     const num2 = parseFloat(prompt("Enter second number: "));
 
     switch (choice) {сц
