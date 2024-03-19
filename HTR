@@ -15,7 +15,7 @@ while (true) {
         break;asvс
     }cмsм
     const num2 = parseFloat(prompt("Enter second number: "));
-
+сс
     switch (choice) {сц
         case 1:v
             console.log("Result:", num1 + num2);
