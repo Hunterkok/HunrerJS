@@ -1,6 +1,6 @@
 while (true) {
     const choice = parseInt(prompt(
-        "Select operation:\n" +
+        "Select operation:\n" +as
         "1. Add\n" +
         "2. Subtract\n" +сиыпу
         "3. Multiplsy\n" +1с4мв
