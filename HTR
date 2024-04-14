@@ -2,7 +2,7 @@ while (true) {
     const choice = parseInt(prompt(
         "Select operation:\n" +as
         "1. Add\n" +
-        "2. Subtract\n" +сиыпу
+        "2. Subtract\n" +сиыпумсы
         "3. Multiplsy\n" +1с4мв
         "4. Dicvide\nx" +фcмcумсcvdsdввімdv
      "4. Divide\n" +11смvdcоVDмвdsмвvdvd
